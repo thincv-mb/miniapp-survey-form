@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/miniapp-survey-form/static/css/main.8bbd31a3.css",
-    "main.js": "/miniapp-survey-form/static/js/main.877c99e2.js",
+    "main.js": "/miniapp-survey-form/static/js/main.856c21ab.js",
     "static/js/453.11dd539f.chunk.js": "/miniapp-survey-form/static/js/453.11dd539f.chunk.js",
     "index.html": "/miniapp-survey-form/index.html",
     "main.8bbd31a3.css.map": "/miniapp-survey-form/static/css/main.8bbd31a3.css.map",
-    "main.877c99e2.js.map": "/miniapp-survey-form/static/js/main.877c99e2.js.map",
+    "main.856c21ab.js.map": "/miniapp-survey-form/static/js/main.856c21ab.js.map",
     "453.11dd539f.chunk.js.map": "/miniapp-survey-form/static/js/453.11dd539f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bbd31a3.css",
-    "static/js/main.877c99e2.js"
+    "static/js/main.856c21ab.js"
   ]
 }
